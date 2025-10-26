@@ -1,6 +1,6 @@
 package com.mayank.journalApp.entity;
 
-import com.fasterxml.jackson.databind.DatabindException;
+
 import lombok.*;
 import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
