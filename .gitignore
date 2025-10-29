@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Configuration Files ###
+application-dev.yaml
+application-prod.yaml
